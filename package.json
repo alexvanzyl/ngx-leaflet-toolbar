@@ -3,7 +3,7 @@
 	"artifactName": "ngx-leaflet-toolbar",
 	"moduleName": "ngxLeafletToolbar",
 	"description": "Angular.io component for Leaflets' toolbar plugin.",
-	"version": "1.0.1",
+	"version": "1.0.2",
 	"author": "Alexander van Zyl",
 	"copyright": "Copyright Alexander van Zyl - All Rights Reserved.",
 	"license": "MIT",
