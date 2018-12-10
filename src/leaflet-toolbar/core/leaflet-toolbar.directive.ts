@@ -1,4 +1,4 @@
-import { Directive, Input, NgZone, OnInit } from '@angular/core';
+import { Directive, Input, OnInit } from '@angular/core';
 
 import 'leaflet-toolbar';
 declare const L: any;
