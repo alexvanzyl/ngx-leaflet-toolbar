@@ -1,9 +1,9 @@
 {
-	"name": "@alexvanzyl/ngx-leaflet-toolbar",
+	"name": "@avanzyl/ngx-leaflet-toolbar",
 	"artifactName": "ngx-leaflet-toolbar",
 	"moduleName": "ngxLeafletToolbar",
 	"description": "Angular.io component for Leaflets' toolbar plugin.",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"author": "Alexander van Zyl",
 	"copyright": "Copyright Alexander van Zyl - All Rights Reserved.",
 	"license": "MIT",
@@ -13,7 +13,7 @@
 	"typings": "dist/index.d.ts",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/alexvanzyl/ngx-leaflet-toolbar.git"
+    "url": "https://github.com/alexvanzyl/ngx-leaflet-toolbar.git"
 	},
 	"scripts": {
 		"build": "npm run compile && npm run bundle",

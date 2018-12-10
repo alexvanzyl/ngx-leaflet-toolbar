@@ -1,4 +1,4 @@
-# @alexvanzyl/ngx-leaflet-toolbar
+# @avanzyl/ngx-leaflet-toolbar
 
 [![Build Status][travis-image]][travis-url]
 
@@ -21,7 +21,7 @@
 npm install leaflet
 npm install leaflet-toolbar
 npm install @asymmetrik/ngx-leaflet
-npm install @alexvanzyl/ngx-leaflet-toolbar
+npm install @avanzyl/ngx-leaflet-toolbar
 
 # Install types
 npm install --save-dev @types/leaflet
@@ -56,7 +56,7 @@ npm install --save-dev @types/leaflet
 2. Import Dependencies and Modules into app.modules.ts
 ```
 import { LeafletModule } from '@asymmetrik/ngx-leaflet';
-import { LeafletToolbarModule } from '@alexvanyl/ngx-leaflet-toolbar';
+import { LeafletToolbarModule } from '@avanzyl/ngx-leaflet-toolbar';
 
 @NgModule({
   ...

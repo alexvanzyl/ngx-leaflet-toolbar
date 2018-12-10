@@ -6,14 +6,14 @@ import { ExampleDemoModule } from './example/example-demo.module';
 
 
 @NgModule({
-	imports: [
-		BrowserModule,
-		ExampleDemoModule
-	],
-	declarations: [
-		AppComponent
-	],
-	bootstrap: [ AppComponent ],
-	providers: [ ]
+  imports: [
+    BrowserModule,
+    ExampleDemoModule
+  ],
+  declarations: [
+    AppComponent
+  ],
+  bootstrap: [AppComponent],
+  providers: []
 })
 export class AppModule { }
